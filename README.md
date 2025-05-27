@@ -31,6 +31,10 @@ Este projeto faz parte do desafio da Fase 3 do Tech Challenge da FIAP. Ele consi
 
 ## 🚀 Como Rodar Localmente
 
+1. Rode o Crawler
+
+Baixe o Meta Trader 5, configure a sua conta da corretora Rico no Meta Trader 5 e na sequencia clique duas vezes no arquivo data-extractor.ex5 para que o robo seja executado dentro do Meta Trader 5.
+
 1. Clone o repositório:
 
 ```bash
