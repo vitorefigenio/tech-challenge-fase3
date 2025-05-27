@@ -7,8 +7,6 @@ Este projeto faz parte do desafio da Fase 3 do Tech Challenge da FIAP. Ele consi
 
 [![Assista o vídeo](https://img.youtube.com/vi/pqZ9tURJRv0/maxresdefault.jpg)](https://www.youtube.com/watch?v=pqZ9tURJRv0)
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 ---
 
 ## 🔧 Tecnologias Utilizadas
