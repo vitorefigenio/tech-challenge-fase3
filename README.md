@@ -26,6 +26,7 @@ Este projeto faz parte do desafio da Fase 3 do Tech Challenge da FIAP. Ele consi
 - Persistência dos modelos treinados (.pkl)
 - Disponibilização dos modelos via API (FastAPI)
 - DEMO: https://www.youtube.com/watch?v=pqZ9tURJRv0
+
 ---
 
 ## 🚀 Como Rodar Localmente
